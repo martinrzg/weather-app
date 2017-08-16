@@ -26,8 +26,8 @@ You will also see any lint errors in the console.
 
 ## Built With
 
-* [React](https://facebook.github.io/react/) - The web library used
-* [material-ui](https://material-ui-1dab0.firebaseapp.com/) - Material Design Components
+* [React](https://facebook.github.io/react/) - Javascript library for building user interfaces
+* [material-ui](https://material-ui-1dab0.firebaseapp.com/) - A React component library implementing Google's Material Design
 
 
 ## Acknowledgments
