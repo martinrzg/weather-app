@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Material Weather App
 > Weather Web app of Chicago city.
 
+![Sample image](public/sample.PNG)
+
 # Requirements
  - NodeJS v8.3.0
  - npm 5.3.0
@@ -28,7 +30,7 @@ You will also see any lint errors in the console.
 
 * [React](https://facebook.github.io/react/) - Javascript library for building user interfaces
 * [material-ui](https://material-ui-1dab0.firebaseapp.com/) - A React component library implementing Google's Material Design
-
+* [OpenWeatherMap](https://openweathermap.org/) - Weather API used 
 
 ## Acknowledgments
 
