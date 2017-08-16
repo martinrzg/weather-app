@@ -24,5 +24,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+## Built With
+
+* [React](https://facebook.github.io/react/) - The web library used
+* [material-ui](https://material-ui-1dab0.firebaseapp.com/) - Material Design Components
+
+
+## Acknowledgments
+
+* Inspiration (https://weather-pwa-sample.firebaseapp.com/step-05/)
+
+
 ## Licence
 MIT &copy; martinruiz
